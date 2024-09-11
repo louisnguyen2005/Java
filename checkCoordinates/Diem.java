@@ -1,3 +1,5 @@
+package checkCoordinates;
+
 import java.util.Scanner;
 
 public class Diem {

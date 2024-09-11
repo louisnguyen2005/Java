@@ -1,3 +1,5 @@
+package checkCoordinates;
+
 public class SDDiem {
     public static void main(String[] args) {
         Diem A = new Diem(5, 7);
